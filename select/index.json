@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "dull",
+  "base_artist": "mukeikaku",
+  "createdAt": "2026-02-11T14:36:38.736413Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dull Life",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/01_Dull_Life_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dull Boys",
+      "artist": "Archy Marshall",
+      "has_synced": true,
+      "path": "select/02_Dull_Boys_Archy_Marshall.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Dull Flame Of Desire",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/03_The_Dull_Flame_Of_Desire_Björk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dull Flame of Desire (Mark Stent Album Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/04_Dull_Flame_of_Desire_(Mark_Stent_Album_Mix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Dull Flame of Desire (Mark Stent Album Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/05_The_Dull_Flame_of_Desire_(Mark_Stent_Album_Mix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Dull Flame of Desire (Modeselektor Remix for Boys)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/06_The_Dull_Flame_of_Desire_(Modeselektor_Remix_for_Boys)_Björk.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Dull Flame of Desire (Modeselektor Remix for Girls)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/07_The_Dull_Flame_of_Desire_(Modeselektor_Remix_for_Girls)_Björk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dull Flame of Desire (Video/Radio Edit)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/08_Dull_Flame_of_Desire_(Video_Radio_Edit)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Dull Flame of Desire (Video / Radio Edit)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/09_The_Dull_Flame_of_Desire_(Video___Radio_Edit)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dull Life",
+      "artist": "Ceremony",
+      "has_synced": true,
+      "path": "select/10_Dull_Life_Ceremony.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dull to Pause",
+      "artist": "Junior Boys",
+      "has_synced": true,
+      "path": "select/11_Dull_to_Pause_Junior_Boys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dull, Brown And Gray",
+      "artist": "The Connells",
+      "has_synced": false,
+      "path": "select/12_Dull,_Brown_And_Gray_The_Connells.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All Things Dull and Ugly",
+      "artist": "Monty Python",
+      "has_synced": true,
+      "path": "select/13_All_Things_Dull_and_Ugly_Monty_Python.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All Things Dull And Ugly",
+      "artist": "Monty Python",
+      "has_synced": false,
+      "path": "select/14_All_Things_Dull_And_Ugly_Monty_Python.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "dull",
+      "artist": "mukeikaku",
+      "has_synced": false,
+      "path": "select/pl_01_dull_mukeikaku.txt"
+    }
+  ]
+}
